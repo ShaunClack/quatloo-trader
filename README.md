@@ -1,6 +1,5 @@
 ##  Quatloo-Trader, altcoin trader program that can auto trade all altcoins on 4 different exchanges. ##
-
-Quatloo-Trader will be free to use for all who hold at least 100 QTL (1000 QTL for v 2.x) at bittrex.com.
+You need a  100 QTL (1000 QTL for v 2.x) at bittrex.com. minimum balance for tradung to work
 The application adds additional functionality and features not found at the web-based bittrex.com trading platform to facilitate trading.
 It is easy to use and is mainly designed for the typical trader. Quatloo-Trader uses Bittrex v1.1 API protocol.
 
